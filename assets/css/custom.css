@@ -1,0 +1,68 @@
+body
+{
+  background: linear-gradient(to bottom, rgba(52, 152, 219, 0.2), rgba(86,21,21,0.2));
+}
+.titre
+{
+  font-family: Georgia;
+}
+.taille
+{
+  height: auto;
+  width: 100%;
+}
+.titre2
+{
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+.ep, i
+{
+  text-align: center;
+  margin-top: 5px;
+  font-weight: bold;
+  font-family: verdana;
+  font-size: 15px;
+  display: inline-block;
+}
+.boite
+{
+  margin-bottom: 25px;
+}
+.obj
+{
+  margin-bottom: 25px;
+}
+.h3style
+{
+  font-family: Verdana;
+  font-weight: bold;
+}
+.inl
+{
+  display: inline-block;
+  margin-right: 15px;
+}
+.inl1
+{
+  display: inline-block;
+  font-size: 22px;
+  font-weight: bold;
+}
+.cadre
+{
+  border: 2px solid white;
+  background-color: rgba(255,255,255,0.8);
+}
+.marge
+{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 0 auto;
+}
+.marge + a
+{
+  text-align: center;
+}
